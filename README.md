@@ -7,7 +7,7 @@
 	
 	clone the git repository 
 	
-	Read the technical documentation file : https://github.com/deep900/dependency-injection-demo/blob/master/Dependency%20Injection%20-%20Documentation.docx
+	Read the technical documentation file under documentation folder : Dependency Injection - Documentation.docx
 	
 	### Prerequisites
 	
