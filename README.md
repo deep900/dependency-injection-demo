@@ -18,11 +18,11 @@
 	
 	## Running the application
 	
-	java -XX:+UseParallelGC -jar Application.java
+	java -jar dependency-injection-demo-1.0-SNAPSHOT.jar
 	
 	## Built With
 	
-	* [Maven](https://maven.apache.org/) - Dependency Management
+	* [Maven](https://maven.apache.org/)
 	
 	
 	## Versioning
