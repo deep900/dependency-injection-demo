@@ -26,7 +26,7 @@ public class BeanFactory {
 
 	private HashMap<String, List<Object>> prototypeBeans = new HashMap<String, List<Object>>();
 
-	private static boolean isInitialized = false;
+	private boolean isInitialized = false;
 
 	private static BeanLoader beanLoader = new BeanLoader();
 
